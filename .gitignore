@@ -1,0 +1,4 @@
+# Fichier Excel d'origine : reste sur votre ordinateur
+data/source/
+# Réglages personnels de Claude Code
+.claude/settings.local.json
